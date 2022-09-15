@@ -4,4 +4,5 @@ cd Project1
 touch file.txt
 nano file.txt 
 git add *
+git commit -m "add a file"
 git switch -c lin_branch
