@@ -6,3 +6,6 @@ nano file.txt
 git add *
 git commit -m "add a file"
 git switch -c lin_branch
+Cd ..
+git push -u origin lin_branch
+
