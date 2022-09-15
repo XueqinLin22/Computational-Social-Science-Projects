@@ -1,0 +1,7 @@
+git clone https://github.com/XueqinLin22/Computational-Social-Science-Projects.git
+mkdir Project1
+cd Project1
+touch file.txt
+nano file.txt 
+git add *
+git switch -c lin_branch
